@@ -29,3 +29,12 @@ This repository contains the source code for a React-based clone website of Refo
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve the project.
+
+
+## 📦 Installation
+
+Clone and set up the project:
+
+```bash
+cd refokus-clone
+npm install
